@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Moz Belajar</string>
+    <string name="login_fragment">Login Fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="address">Address</string>
+    <string name="login">Login</string>
+    <string name="format_welcome_message">Welcome %s</string>
+    <string name="profile_fragment">Profile Fragment</string>
 </resources>
